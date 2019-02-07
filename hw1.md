@@ -10,3 +10,5 @@ wc -l Alexander_the_Great
 * I just
 
 ![screenshoot](https://github.com/smart-stats/assignment-1-ckt0005/blob/master/Assignment1-Screenshot/Question2.a.png)
+
+![screenshoot](https://github.com/smart-stats/assignment-1-ckt0005/blob/master/Assignment1-Screenshot/Question2.b.png)
